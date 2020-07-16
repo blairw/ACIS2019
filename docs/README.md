@@ -2,7 +2,7 @@
 
 ### What is this?
 
-The **Australiasian Conference on Information Systems 2019 (ACIS 2019)** took place in Perth (Australia) on 9-11 December, 2019. Unfortunately, the official conference website (acis2019.org) seems to be a bit unwell at the moment (as at time of writing: 17 July 2020). While we await its expedient recovery, we can take advantage of the fact that all ACIS 2019 papers are _"distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 Australia License, which permits non-commercial use, distribution, and reproduction in any medium, provided the original author and ACIS are credited"_.
+The 30th **Australiasian Conference on Information Systems (ACIS)** took place in Fremantle (Perth, Western Australia, Australia) on 9-11 December, 2019. Unfortunately, as at time of writing (17 July 2020), the official conference website (acis2019.org) seems to be a bit unwell. While we await its expedient recovery, we can take advantage of the fact that all ACIS 2019 papers are _"distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 Australia License, which permits non-commercial use, distribution, and reproduction in any medium, provided the original author and ACIS are credited"_.
 
 All papers presented at ACIS 2019 are available for download below (scroll to **"Papers by Track"**).
 
