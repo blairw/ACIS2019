@@ -52,7 +52,7 @@ Please click on the title to view the PDF file.
 | | **Track 6. Resilience and Sustainability** |
 178 | [Developing the concept of Individual IT Culture and its Impact on IT Risk Management Implementation ](pdfs/ACIS2019_PaperFIN_178.pdf) | Bruce Rowlands and Neda Azizi |
 92 | [Information Systems for Disaster Management: The Impact of National Context ](pdfs/ACIS2019_PaperFIN_092.pdf) | Haibin Wu, Deborah Bunker and Stephen Smith |
-154 | [Business Process Management and Environmental Sustainability ‚Äì Insights from the Hospitality Industry ](pdfs/ACIS2019_PaperFIN_154.pdf) | Shahrzad Roohy Gohar and Marta Indulska |
+154 | [Business Process Management and Environmental Sustainability - Insights from the Hospitality Industry ](pdfs/ACIS2019_PaperFIN_154.pdf) | Shahrzad Roohy Gohar and Marta Indulska |
 | | **Track 7. Agile IS Development and Project Management** |
 192 | [Coordination in Distributed Agile Software Development: insights from a COTS-based Case Study ](pdfs/ACIS2019_PaperFIN_192.pdf) | Jim Buchan, A B M Nurul Afser Talukder and Mali Senapathi |
 97 | [Agility practices for software development: an investigation of agile organization concepts ](pdfs/ACIS2019_PaperFIN_097.pdf) | Kevin Kusuma, Shahper Richter and Ramesh Lal |
@@ -60,7 +60,7 @@ Please click on the title to view the PDF file.
 21 | [Agile Development as Service Ecosystems ](pdfs/ACIS2019_PaperFIN_021.pdf) | Gro Bjerknes and Karlheinz Kautz |
 63 | [The Coevolution of Organizational Routines and IT Systems in IT-enabled Organizational Transformation ](pdfs/ACIS2019_PaperFIN_063.pdf) | Faqir Taj, Karlheinz Kautz and Vince Bruno |
 19 | [Business Processes and Flexibility: A Theoretical Perspective ](pdfs/ACIS2019_PaperFIN_019.pdf) | Pedro Antunes, Mary Tate and Jose Pino |
-48 | [Compliance Centric Data Quality Management ‚Äì The Banking and Financial Industry Perspective ](pdfs/ACIS2019_PaperFIN_048.pdf) | Faisal Khan, Marta Indulska and Shazia Sadiq |
+48 | [Compliance Centric Data Quality Management - The Banking and Financial Industry Perspective ](pdfs/ACIS2019_PaperFIN_048.pdf) | Faisal Khan, Marta Indulska and Shazia Sadiq |
 175 | [What do Employers expect from Business Analysts and is it captured by the ‚ÄúBusiness Analysis Body of Knowledge‚Äù (BABOK)? ](pdfs/ACIS2019_PaperFIN_175.pdf) | Paul Meredith, Peter Summons, Mira Park and Bruce Cheek |
 | | **Track 8. Human-Centred IS Design** |
 86 | [Digital Accessibility: Perceptions, Expectations and Reality ](pdfs/ACIS2019_PaperFIN_086.pdf) | Vivienne Conway and Amanda Mace |
@@ -77,13 +77,13 @@ Please click on the title to view the PDF file.
 | | **Track 11. Social Computing and Co-Creation** |
 14 | [Leveraging Online Social Capital: How the German Red Cross Uses Social Networking Sites ](pdfs/ACIS2019_PaperFIN_014.pdf) | Diana Fischer-Pressler, Julian Marx, Christian Ehnis and Kai Fischbach |
 50 | [The Role of State Boredom, State of Fear of Missing Out and State Loneliness in State Phubbing ](pdfs/ACIS2019_PaperFIN_050.pdf) | Yeslam Al-Saggaf and Sarah O'Donnell |
-70 | [Collective Identity Formation on Instagram ‚Äì Investigating the Social Movement Fridays for Future ](pdfs/ACIS2019_PaperFIN_070.pdf) | Felix Br√ºnker, Fabian Deitelhoff and Milad Mirbabaie |
+70 | [Collective Identity Formation on Instagram - Investigating the Social Movement Fridays for Future ](pdfs/ACIS2019_PaperFIN_070.pdf) | Felix Brünker, Fabian Deitelhoff and Milad Mirbabaie |
 99 | [Why Is Your Crowd Abandoning You? Exploring Crowdsourcing Discontinuance through the Lens of Motivation Theory ](pdfs/ACIS2019_PaperFIN_099.pdf) | Wael Soliman, Tapani Rinta-Kahila and Joona Kaikkonen |
 49 | [How Does Brand Popularity Affect Patrons‚Äô Continuance? Examining the Mediating Role of Customer Commitment ](pdfs/ACIS2019_PaperFIN_049.pdf) | Heng Tang |
 34 | [What Should Businesses Know About Social Media Analytics? ](pdfs/ACIS2019_PaperFIN_034.pdf) | Gohar Khan and Stuart Dillon |
 68 | [Addiction to Social Network Site Use: An Information Technology Identity Perspective ](pdfs/ACIS2019_PaperFIN_068.pdf) | Layla Boroon, Babak Abedin and Shadi Erfani |
 87 | [The business value of social media: A dynamic managerial capabilities perspective ](pdfs/ACIS2019_PaperFIN_087.pdf) | Siddharth Majhi, Arindam Mukherjee and Ambuj Anand |
-196 | [Towards a Digital Platform to Support/Enhance Community-based Tourism in Developing Countries ‚Äì Findings from Nepal ](pdfs/ACIS2019_PaperFIN_196.pdf) | Sojen Pradhan, Christian Ehnis and Sanjay Lama |
+196 | [Towards a Digital Platform to Support/Enhance Community-based Tourism in Developing Countries - Findings from Nepal ](pdfs/ACIS2019_PaperFIN_196.pdf) | Sojen Pradhan, Christian Ehnis and Sanjay Lama |
 | | **Track 12. IS in Supply Chain Management** |
 32 | [Augmenting the distribution of goods from warehouses in dynamic demand environments using intelligent agents ](pdfs/ACIS2019_PaperFIN_032.pdf) | Tania Binos, Vince Bruno and Arthur Adamopoulos |
 163 | [Modelling the supply chain impact of a digital terminal appointment systems parameters and user behaviours. A discrete event simulation approach ](pdfs/ACIS2019_PaperFIN_163.pdf) | Mihai Neagoe, Mohammad Sadegh Taskhiri, Hans-Henrik Hvolby and Paul Turner |
@@ -104,7 +104,7 @@ Please click on the title to view the PDF file.
 | | **Track 14. IS Education, Curriculum, and Teaching Classes** |
 107 | [Evaluating Persuasion in a Digital Learning Environment ](pdfs/ACIS2019_PaperFIN_107.pdf) | Justin Filippou, Christopher Cheong and France Cheong |
 173 | [Are ERP Simulation Games Assisting Students to be Job-Ready? An Australian Universities‚Äô Perspective ](pdfs/ACIS2019_PaperFIN_173.pdf)| Nadia Faisal, Mehmood Chadhar, Anitra Goriss-Hunter and Andrew Stranieri |
-60 | [Trialling a Comparative Assessment Tool for Modelling-oriented Assignments ‚Äì Findings and Recommendations ](pdfs/ACIS2019_PaperFIN_060.pdf) | Andreas Drechsler |
+60 | [Trialling a Comparative Assessment Tool for Modelling-oriented Assignments - Findings and Recommendations ](pdfs/ACIS2019_PaperFIN_060.pdf) | Andreas Drechsler |
 74 | [Making the world a better place with Mixed Reality in Education ](pdfs/ACIS2019_PaperFIN_074.pdf) | Blooma John and Jayan Kurian |
 11 | [Students‚Äô awareness of Augmented Reality adoption in Saudi Arabia Universities ](pdfs/ACIS2019_PaperFIN_011.pdf) | Muteeb Alahmari |
 38 | [Factors Affecting the Saudi Arabian Higher Education Creative Environment ](pdfs/ACIS2019_PaperFIN_038.pdf) | Mamdouh Qahl, Prof. Igor Hawryszkiewycz, Muhammad Binsawad and Junaid Rehman |
@@ -128,7 +128,7 @@ Please click on the title to view the PDF file.
 22 | [Making Sense of Blockchain in Food Supply-Chains ](pdfs/ACIS2019_PaperFIN_022.pdf) | Andrew Croxson, Ravi Sharma and Steve Wingreen |
 162 | [Towards a Triple Bottom Line Perspective of Blockchains in Supply Chain ](pdfs/ACIS2019_PaperFIN_162.pdf) | Chi Pham, Arthur Adamopoulos and Elizabeth Tait |
 195 | [How Blockchain can help in Supply Chain Sustainability ](pdfs/ACIS2019_PaperFIN_195.pdf) | Anulipt Chandan, Vidyasagar Potdar and Michele Rosano |
-40 | [Dimensions, Success Factors and Obstacles of the Adoption of Blockchain Technology ](pdfs/ACIS2019_PaperFIN_040.pdf) | Friedrich Holotiuk and J√ºrgen Moormann |
+40 | [Dimensions, Success Factors and Obstacles of the Adoption of Blockchain Technology ](pdfs/ACIS2019_PaperFIN_040.pdf) | Friedrich Holotiuk and Jürgen Moormann |
 61 | [How blockchain impacts cloud-based system performance: a case study for a groupware communication application ](pdfs/ACIS2019_PaperFIN_061.pdf) | Peter Eklund, Jason Spasovski and Roman Beck |
 155 | [Challenges and opportunities for Blockchain Technology adoption: A systematic review ](pdfs/ACIS2019_PaperFIN_155.pdf) | Shipra Chhina, Mehmood Chadhar, Savanid Vatanasakdakul and Madhu Chetty |
 | | **Track 17. Panels, Workshops and Tutorials** |
@@ -136,7 +136,7 @@ Please click on the title to view the PDF file.
 203 | [Tutorial: Design Science Research: A Hands-on Tutorial ](pdfs/ACIS2019_PaperFIN_203-Tutorial.pdf) | John Venable |
 204 | [Tutorial: Introduction to Blockchain technology ](pdfs/ACIS2019_PaperFIN_204-Tutorial.pdf)| Vidyasagar Potdar, Sai Charan Mamidi |
 205 | [Panel 2 - (205) Digital Transformation: Environmental friend or foe? ](pdfs/ACIS2019_PaperFIN_205-Panel.pdf) | Sachithra Lokuge, Darshana Sedera, Frada Burstein, Vanessa Cooper |
-206 | [Panel 3 ‚Äì (206) Information Systems (IS) Education in Australia ‚Äì where from here? ](pdfs/ACIS2019_PaperFIN_206-Panel.pdf) | Caroline Chan, Frada Burstein, John Venable, Joan Richardson |
+206 | [Panel 3 - (206) Information Systems (IS) Education in Australia - where from here? ](pdfs/ACIS2019_PaperFIN_206-Panel.pdf) | Caroline Chan, Frada Burstein, John Venable, Joan Richardson |
 207 | [Workshop: Paper Development Workshop ](pdfs/ACIS2019_PaperFIN_207-Workshop.pdf) | Annette Mills |
 209 | [Panel 1 - (209) Ethics in IT: Importance of Digital Inclusion ](pdfs/ACIS2019_PaperFIN_209-Panel.pdf) | Vivienne Conway, Amanda Mace, Justin Brown, David Lucido, Muhammad Saleem |
 211 | [Panel 4 - (211) Towards ethical guidelines for Social Media Analytics ](pdfs/ACIS2019_PaperFIN_211-Panel.pdf) | Deborah Bunker, Caroline Chan, Dirk S. Hovorka, Sojen Prahdan, Nicolas Frick |
