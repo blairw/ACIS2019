@@ -10,7 +10,7 @@ The Australiasian Conference on Information Systems (ACIS) was held in Perth (Au
 
 | ID  |  Title  |  Authors  |
 | - | - | - |
-| <td colspan="3"><b>Track 1. General</b></td> |
+| | **Track 1. General** |
 75        |  [Towards Successful Collaboration: Design Guidelines for AI-based Services enriching Information Systems in Organisations ](pdfs/ACIS2019_PaperFIN_075.pdf)                                     |  Nicholas Frick, Felix Br√ºnker, Bj√∂rn Ross and Stefan Stieglitz                                                    |    |
 135       |  [Information Technology Capability and Firm Performance: The Role of Strategic Orientation  ](pdfs/ACIS2019_PaperFIN_135.pdf)                                                                   |  Siddharth Majhi and Arindam Mukherjee                                                                               |    |
 176       |  [Using Adaptive Enterprise Architecture Framework for Defining the Adaptable Identity Ecosystem Architecture ](pdfs/ACIS2019_PaperFIN_176.pdf)                                                  |  Memoona Anwar, Asif Gill and Ghassan Beydoun                                                                        |    |
@@ -24,7 +24,7 @@ The Australiasian Conference on Information Systems (ACIS) was held in Perth (Au
 191       |  [Literature Review challenges for emerging technologies ](pdfs/ACIS2019_PaperFIN_191.pdf)                                                                                                       |  Karina Honey and D. Alastair Robb                                                                                   |    |
 91        |  [An Exploration of Project Approaches for International Development Projects ](pdfs/ACIS2019_PaperFIN_091.pdf)                                                                                  |  Zareen Tasnim Lazima and Sharon Coyle                                                                               |    |
 127       |  [Complementarities in Platform Ecosystems: A Study of Coevolution of Made-in-Korea Digital Entertainment Phenomenon ](pdfs/ACIS2019_PaperFIN_127.pdf)                                           |  Bk Lee, Felix Tan and Seongmin Jeon                                                                                 |    |
-| <td colspan="3"><b>Track 2. Making the World a Better Place with Information Systems</b></td> |
+| | **Track 2. Making the World a Better Place with Information Systems** |
 56        |  [Agri-informatics: A multi-disciplinary literature ](pdfs/ACIS2019_PaperFIN_056.pdf)                                                                                                            |  Darshana Sedera and Sachithra Lokuge                                                                                |    |
 72        |  [Recommendations for enhancing consumer safe food management behaviour with smartphone technology ](pdfs/ACIS2019_PaperFIN_072.pdf)                                                             |  Adeola Bamgboje-Ayodele, Leonie Ellis and Paul Turner                                                               |    |
 174       |  [Achieving Agriculture Biotic Sustainability through Mobile-based Information System: Adapting the characteristics of Geographical Information Systems (GIS) ](pdfs/ACIS2019_PaperFIN_174.pdf)  |  Janagan Sivagnanasundaram, Athula Ginige and J.S. Goonethillake                                                     |    |
