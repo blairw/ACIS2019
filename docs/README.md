@@ -15,7 +15,7 @@ Please click on the title to view the PDF file.
 | ID | Title | Authors |
 | - | - | - |
 | | **Track 1. General** |
-75 | [Towards Successful Collaboration: Design Guidelines for AI-based Services enriching Information Systems in Organisations ](pdfs/ACIS2019_PaperFIN_075.pdf) | Nicholas Frick, Felix Br√ºnker, Bj√∂rn Ross and Stefan Stieglitz |
+75 | [Towards Successful Collaboration: Design Guidelines for AI-based Services enriching Information Systems in Organisations ](pdfs/ACIS2019_PaperFIN_075.pdf) | Nicholas Frick, Felix Brünker, Björn Ross and Stefan Stieglitz |
 135 | [Information Technology Capability and Firm Performance: The Role of Strategic Orientation ](pdfs/ACIS2019_PaperFIN_135.pdf) | Siddharth Majhi and Arindam Mukherjee |
 176 | [Using Adaptive Enterprise Architecture Framework for Defining the Adaptable Identity Ecosystem Architecture ](pdfs/ACIS2019_PaperFIN_176.pdf) | Memoona Anwar, Asif Gill and Ghassan Beydoun |
 110 | [Understanding customers‚Äô purchase behaviour from online group buying websites: a transaction cost approach ](pdfs/ACIS2019_PaperFIN_110.pdf) | Mohammad Hossain |
