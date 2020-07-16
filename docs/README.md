@@ -6,7 +6,7 @@ The Australiasian Conference on Information Systems (ACIS) was held in Perth (Au
 
 > "This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 Australia License, which permits non-commercial use, distribution, and reproduction in any medium, provided the original author and ACIS are credited."
 
-This website is not affiliated with ACIS, AAIS, or Curtin University. It is a voluntary project to make the ACIS 2019 proceedings available. For more details, please contact [Blair Wang](www.blair.wang).
+This website is not affiliated with ACIS, AAIS, or Curtin University. It is a voluntary project to make the ACIS 2019 proceedings available. For more details, please contact [Blair Wang](https://www.blair.wang).
 
 ### Papers by Track
 
