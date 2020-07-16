@@ -132,11 +132,11 @@ Please click on the title to view the PDF file.
 61 | [How blockchain impacts cloud-based system performance: a case study for a groupware communication application ](pdfs/ACIS2019_PaperFIN_061.pdf) | Peter Eklund, Jason Spasovski and Roman Beck |
 155 | [Challenges and opportunities for Blockchain Technology adoption: A systematic review ](pdfs/ACIS2019_PaperFIN_155.pdf) | Shipra Chhina, Mehmood Chadhar, Savanid Vatanasakdakul and Madhu Chetty |
 | | **Track 17. Panels, Workshops and Tutorials** |
-202 | [Tutorial: IS guided Logistics and Supply Chain Management Systems and Knowledge Management ](pdfs/ACIS2019_PaperFIN_202.pdf) | Shastri Nimmagadda, Torsten Reiners, Lincoln C. Wood |
-203 | [Tutorial: Design Science Research: A Hands-on Tutorial ](pdfs/ACIS2019_PaperFIN_203.pdf) | John Venable |
-204 | [Tutorial: Introduction to Blockchain technology ](pdfs/ACIS2019_PaperFIN_204.pdf)| Vidyasagar Potdar, Sai Charan Mamidi |
-205 | [Panel 2 - (205) Digital Transformation: Environmental friend or foe? ](pdfs/ACIS2019_PaperFIN_205.pdf) | Sachithra Lokuge, Darshana Sedera, Frada Burstein, Vanessa Cooper |
-206 | [Panel 3 ‚Äì (206) Information Systems (IS) Education in Australia ‚Äì where from here? ](pdfs/ACIS2019_PaperFIN_206.pdf) | Caroline Chan, Frada Burstein, John Venable, Joan Richardson |
-207 | [Workshop: Paper Development Workshop ](pdfs/ACIS2019_PaperFIN_207.pdf) | Annette Mills |
-209 | [Panel 1 - (209) Ethics in IT: Importance of Digital Inclusion ](pdfs/ACIS2019_PaperFIN_209.pdf) | Vivienne Conway, Amanda Mace, Justin Brown, David Lucido, Muhammad Saleem |
-211 | [Panel 4 - (211) Towards ethical guidelines for Social Media Analytics ](pdfs/ACIS2019_PaperFIN_211.pdf) | Deborah Bunker, Caroline Chan, Dirk S. Hovorka, Sojen Prahdan, Nicolas Frick |
+202 | [Tutorial: IS guided Logistics and Supply Chain Management Systems and Knowledge Management ](pdfs/ACIS2019_PaperFIN_202-Tutorial.pdf) | Shastri Nimmagadda, Torsten Reiners, Lincoln C. Wood |
+203 | [Tutorial: Design Science Research: A Hands-on Tutorial ](pdfs/ACIS2019_PaperFIN_203-Tutorial.pdf) | John Venable |
+204 | [Tutorial: Introduction to Blockchain technology ](pdfs/ACIS2019_PaperFIN_204-Tutorial.pdf)| Vidyasagar Potdar, Sai Charan Mamidi |
+205 | [Panel 2 - (205) Digital Transformation: Environmental friend or foe? ](pdfs/ACIS2019_PaperFIN_205-Panel.pdf) | Sachithra Lokuge, Darshana Sedera, Frada Burstein, Vanessa Cooper |
+206 | [Panel 3 ‚Äì (206) Information Systems (IS) Education in Australia ‚Äì where from here? ](pdfs/ACIS2019_PaperFIN_206-Panel.pdf) | Caroline Chan, Frada Burstein, John Venable, Joan Richardson |
+207 | [Workshop: Paper Development Workshop ](pdfs/ACIS2019_PaperFIN_207-Workshop.pdf) | Annette Mills |
+209 | [Panel 1 - (209) Ethics in IT: Importance of Digital Inclusion ](pdfs/ACIS2019_PaperFIN_209-Panel.pdf) | Vivienne Conway, Amanda Mace, Justin Brown, David Lucido, Muhammad Saleem |
+211 | [Panel 4 - (211) Towards ethical guidelines for Social Media Analytics ](pdfs/ACIS2019_PaperFIN_211-Panel.pdf) | Deborah Bunker, Caroline Chan, Dirk S. Hovorka, Sojen Prahdan, Nicolas Frick |
