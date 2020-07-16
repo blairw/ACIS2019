@@ -10,7 +10,7 @@ This website is not affiliated with ACIS, AAIS, or Curtin University. It is a vo
 
 ### Papers by Track
 
-Please click on the title to view the PDF file.
+Click on the paper's title to view its PDF file.
 
 | ID | Title | Authors |
 | - | - | - |
