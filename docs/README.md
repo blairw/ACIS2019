@@ -18,7 +18,7 @@ Please click on the title to view the PDF file.
 75 | [Towards Successful Collaboration: Design Guidelines for AI-based Services enriching Information Systems in Organisations ](pdfs/ACIS2019_PaperFIN_075.pdf) | Nicholas Frick, Felix Brünker, Björn Ross and Stefan Stieglitz |
 135 | [Information Technology Capability and Firm Performance: The Role of Strategic Orientation ](pdfs/ACIS2019_PaperFIN_135.pdf) | Siddharth Majhi and Arindam Mukherjee |
 176 | [Using Adaptive Enterprise Architecture Framework for Defining the Adaptable Identity Ecosystem Architecture ](pdfs/ACIS2019_PaperFIN_176.pdf) | Memoona Anwar, Asif Gill and Ghassan Beydoun |
-110 | [Understanding customers‚Äô purchase behaviour from online group buying websites: a transaction cost approach ](pdfs/ACIS2019_PaperFIN_110.pdf) | Mohammad Hossain |
+110 | [Understanding customers' purchase behaviour from online group buying websites: a transaction cost approach ](pdfs/ACIS2019_PaperFIN_110.pdf) | Mohammad Hossain |
 146 | [What Makes a Review Credible? Heuristic and Systematic Factors for the Credibility of Online Reviews ](pdfs/ACIS2019_PaperFIN_146.pdf) | Ehsan Abedin, Antonette Mendoza and Shanika Karunasekera |
 151 | [Understanding the Mobile Gaming Context and Player Behaviour: A Review and a Research Agenda ](pdfs/ACIS2019_PaperFIN_151.pdf) | Siqi Gao and Petri Hallikainen |
 150 | [Technology Introduction as Social Interpretation by End-Users: Key Articulations in the Literature ](pdfs/ACIS2019_PaperFIN_150.pdf) | Ali Eshraghi, Robert B. Johnston and Kai Riemer |
@@ -43,7 +43,7 @@ Please click on the title to view the PDF file.
 147 | [Network Ties and Their Effect on Employee Collaboration in Enterprise Social Networks: A Review and Research Agenda](pdfs/ACIS2019_PaperFIN_147.pdf) | Shilpa Kochar, Jason Watson and Chun Ouyang |
 156 | [Barriers to Adoption of Financial Technology: A Study of the Australian Financial Sector ](pdfs/ACIS2019_PaperFIN_156.pdf) | Nicholas Brookes, Axel Korthaus and Hamid Pousti |
 186 | [How Government Regulation Affects Technology Continuance (Case Study of Online Transportation)](pdfs/ACIS2019_PaperFIN_186.pdf) | Rino Nugroho, Okki Ambarwati, Septyanto G. Prakoso and Didik Suharto |
-23 | [Is checkout- free store a flash in the pan? Factors influencing Hong Kong people‚Äôs adoption intention of checkout-free stores ](pdfs/ACIS2019_PaperFIN_023.pdf) | Cong Qi |
+23 | [Is checkout- free store a flash in the pan? Factors influencing Hong Kong people's adoption intention of checkout-free stores ](pdfs/ACIS2019_PaperFIN_023.pdf) | Cong Qi |
 153 | [Conceptualising Resource Integration Process Effectiveness to Assist Australian SMEs to Co-create Value with Cloud Technologies](pdfs/ACIS2019_PaperFIN_153.pdf) | Shan Jayasinghe, Lester Johnson, Chandana Hewege and Chamila Perera |
 | | **Track 5. Industry 4.0 Design, Challenges and Impacts** |
 15 | [Decision Support Systems in the Context of CyberPhysical Systems: Influencing Factors and Challenges for the Adoption in Production Scheduling ](pdfs/ACIS2019_PaperFIN_015.pdf) | Pascal Freier and Matthias Schumann 
@@ -79,7 +79,7 @@ Please click on the title to view the PDF file.
 50 | [The Role of State Boredom, State of Fear of Missing Out and State Loneliness in State Phubbing ](pdfs/ACIS2019_PaperFIN_050.pdf) | Yeslam Al-Saggaf and Sarah O'Donnell |
 70 | [Collective Identity Formation on Instagram - Investigating the Social Movement Fridays for Future ](pdfs/ACIS2019_PaperFIN_070.pdf) | Felix Brünker, Fabian Deitelhoff and Milad Mirbabaie |
 99 | [Why Is Your Crowd Abandoning You? Exploring Crowdsourcing Discontinuance through the Lens of Motivation Theory ](pdfs/ACIS2019_PaperFIN_099.pdf) | Wael Soliman, Tapani Rinta-Kahila and Joona Kaikkonen |
-49 | [How Does Brand Popularity Affect Patrons‚Äô Continuance? Examining the Mediating Role of Customer Commitment ](pdfs/ACIS2019_PaperFIN_049.pdf) | Heng Tang |
+49 | [How Does Brand Popularity Affect Patrons' Continuance? Examining the Mediating Role of Customer Commitment ](pdfs/ACIS2019_PaperFIN_049.pdf) | Heng Tang |
 34 | [What Should Businesses Know About Social Media Analytics? ](pdfs/ACIS2019_PaperFIN_034.pdf) | Gohar Khan and Stuart Dillon |
 68 | [Addiction to Social Network Site Use: An Information Technology Identity Perspective ](pdfs/ACIS2019_PaperFIN_068.pdf) | Layla Boroon, Babak Abedin and Shadi Erfani |
 87 | [The business value of social media: A dynamic managerial capabilities perspective ](pdfs/ACIS2019_PaperFIN_087.pdf) | Siddharth Majhi, Arindam Mukherjee and Ambuj Anand |
@@ -90,7 +90,7 @@ Please click on the title to view the PDF file.
 117 | [Information System Guided Supply Chains and their Visual Analytics in Integrated Project Management ](pdfs/ACIS2019_PaperFIN_117.pdf) | Shastri Nimmagadda, Torsten Reiners, Lincoln Wood and Neel Mani |
 | | **Track 13. Digital Healthcare Systems** |
 139 | [Videoconference in Psychotherapy: Understanding research and practical implications ](pdfs/ACIS2019_PaperFIN_139.pdf) | Francesco Cataldo, Antonette Mendoza, Shanton Chang and George Buchanan |
-182 | [Medical Transcriptionist‚Äôs Experience with Speech Recognition Technology ](pdfs/ACIS2019_PaperFIN_182.pdf) | Honorato Jr Altar and Raymund Sison |
+182 | [Medical Transcriptionist's Experience with Speech Recognition Technology ](pdfs/ACIS2019_PaperFIN_182.pdf) | Honorato Jr Altar and Raymund Sison |
 33 | [The MyHealthRecord System in General Practices: Steps Towards Adoption Sustainability ](pdfs/ACIS2019_PaperFIN_033.pdf) | Urooj Raza Khan and Christopher Pearce |
 51 | [Developing an instrument to measure the adoption of mobile devices in the telehealth environment ](pdfs/ACIS2019_PaperFIN_051.pdf) | Vasundhara Rani, Abdul Hafeez- Baig and Raj Gururajan |
 45 | [Adoption of M-Health Applications: The Saudi Arabian Healthcare Perspectives ](pdfs/ACIS2019_PaperFIN_045.pdf) | Nasser Aljohani and Daniel Chandran |
@@ -103,12 +103,12 @@ Please click on the title to view the PDF file.
 108 | [Towards Addressing Cognitive Load in Training on Electronic Medical Record Systems ](pdfs/ACIS2019_PaperFIN_108.pdf) | Sarang Hashemi, Frada Burstein, Kenneth Tan and Christopher Bain |
 | | **Track 14. IS Education, Curriculum, and Teaching Classes** |
 107 | [Evaluating Persuasion in a Digital Learning Environment ](pdfs/ACIS2019_PaperFIN_107.pdf) | Justin Filippou, Christopher Cheong and France Cheong |
-173 | [Are ERP Simulation Games Assisting Students to be Job-Ready? An Australian Universities‚Äô Perspective ](pdfs/ACIS2019_PaperFIN_173.pdf)| Nadia Faisal, Mehmood Chadhar, Anitra Goriss-Hunter and Andrew Stranieri |
+173 | [Are ERP Simulation Games Assisting Students to be Job-Ready? An Australian Universities' Perspective ](pdfs/ACIS2019_PaperFIN_173.pdf)| Nadia Faisal, Mehmood Chadhar, Anitra Goriss-Hunter and Andrew Stranieri |
 60 | [Trialling a Comparative Assessment Tool for Modelling-oriented Assignments - Findings and Recommendations ](pdfs/ACIS2019_PaperFIN_060.pdf) | Andreas Drechsler |
 74 | [Making the world a better place with Mixed Reality in Education ](pdfs/ACIS2019_PaperFIN_074.pdf) | Blooma John and Jayan Kurian |
-11 | [Students‚Äô awareness of Augmented Reality adoption in Saudi Arabia Universities ](pdfs/ACIS2019_PaperFIN_011.pdf) | Muteeb Alahmari |
+11 | [Students' awareness of Augmented Reality adoption in Saudi Arabia Universities ](pdfs/ACIS2019_PaperFIN_011.pdf) | Muteeb Alahmari |
 38 | [Factors Affecting the Saudi Arabian Higher Education Creative Environment ](pdfs/ACIS2019_PaperFIN_038.pdf) | Mamdouh Qahl, Prof. Igor Hawryszkiewycz, Muhammad Binsawad and Junaid Rehman |
-161 | [Students‚Äô Use of Internet Technologies for Interactions in Learning Practices: A Study from Saudi Arabia‚Äôs Higher Education ](pdfs/ACIS2019_PaperFIN_161.pdf) | Mona Mesfer Alshardan, Antonette Mendoza, Shanton Chang and Richard Sinnott |
+161 | [Students' Use of Internet Technologies for Interactions in Learning Practices: A Study from Saudi Arabia's Higher Education ](pdfs/ACIS2019_PaperFIN_161.pdf) | Mona Mesfer Alshardan, Antonette Mendoza, Shanton Chang and Richard Sinnott |
 125 | [Building a Single Classroom with Technology ](pdfs/ACIS2019_PaperFIN_125.pdf) | Lisa Soon and Michael Cowling |
 169 | [GAD: A framework for developing an effective group work assessment ](pdfs/ACIS2019_PaperFIN_169.pdf) | Akther Shermin, Buddhima De Silva and Ashini Wesumperuma |
 | | **Track 15. Security and Privacy** |
@@ -119,7 +119,7 @@ Please click on the title to view the PDF file.
 71 | [What motivates teenagers to comply with security guidelines? ](pdfs/ACIS2019_PaperFIN_071.pdf) | Florence Mwagwabi and Jhee Jiow |
 80 | [The Study on the Effectiveness of Preventive methods for Online Piracy ](pdfs/ACIS2019_PaperFIN_080.pdf) | Jooyeon Park |
 73 | [Cloud privacy and security issues beyond technology: championing the cause of accountability](pdfs/ACIS2019_PaperFIN_073.pdf) | Joshua Katebe Mwenya and Irwin Brown |
-83 | [Why Johnny can‚Äôt rely on anti-phishing educational interventions to protect himself against contemporary phishing attacks? ](pdfs/ACIS2019_PaperFIN_083.pdf) | Matheesha Fernando and Nalin Arachchilage |
+83 | [Why Johnny can't rely on anti-phishing educational interventions to protect himself against contemporary phishing attacks? ](pdfs/ACIS2019_PaperFIN_083.pdf) | Matheesha Fernando and Nalin Arachchilage |
 4 | [The Dark Web Phenomenon: A Review and Research Agenda ](pdfs/ACIS2019_PaperFIN_004.pdf) | Abhineet Gupta, Sean B. Maynard and Atif Ahmad |
 94 | [Enhancing Strategic Information Security Management in Organizations through Warfare Practices ](pdfs/ACIS2019_PaperFIN_094.pdf) | Abid Hussain Shah, Atif Ahmad, Sean B. Maynard and Humza Naseer |
 143 | [Dynamic Information Security Management Capability: Strategising for Organisational Performance ](pdfs/ACIS2019_PaperFIN_143.pdf) | Mazino Onibere, Atif Ahmad and Sean B. Maynard |
