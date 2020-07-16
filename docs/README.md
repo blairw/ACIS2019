@@ -63,7 +63,7 @@ Please click on the title to view the PDF file.
 63 | [The Coevolution of Organizational Routines and IT Systems in IT-enabled Organizational Transformation ](pdfs/ACIS2019_PaperFIN_063.pdf) | Faqir Taj, Karlheinz Kautz and Vince Bruno |
 19 | [Business Processes and Flexibility: A Theoretical Perspective ](pdfs/ACIS2019_PaperFIN_019.pdf) | Pedro Antunes, Mary Tate and Jose Pino |
 48 | [Compliance Centric Data Quality Management - The Banking and Financial Industry Perspective ](pdfs/ACIS2019_PaperFIN_048.pdf) | Faisal Khan, Marta Indulska and Shazia Sadiq |
-175 | [What do Employers expect from Business Analysts and is it captured by the ‚ÄúBusiness Analysis Body of Knowledge‚Äù (BABOK)? ](pdfs/ACIS2019_PaperFIN_175.pdf) | Paul Meredith, Peter Summons, Mira Park and Bruce Cheek |
+175 | [What do Employers expect from Business Analysts and is it captured by the "Business Analysis Body of Knowledge" (BABOK)? ](pdfs/ACIS2019_PaperFIN_175.pdf) | Paul Meredith, Peter Summons, Mira Park and Bruce Cheek |
 | | **Track 8. Human-Centred IS Design** |
 86 | [Digital Accessibility: Perceptions, Expectations and Reality ](pdfs/ACIS2019_PaperFIN_086.pdf) | Vivienne Conway and Amanda Mace |
 100 | [Setting the e-Commerce Scene: A Qualitative Investigation of the Use of Nature Imagery in User Interface Design ](pdfs/ACIS2019_PaperFIN_100.pdf) | Ashlea Rendell, Marc Adam and Ami Eidels |
