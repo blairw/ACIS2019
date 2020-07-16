@@ -32,7 +32,7 @@ Please click on the title to view the PDF file.
 56 | [Agri-informatics: A multi-disciplinary literature ](pdfs/ACIS2019_PaperFIN_056.pdf) | Darshana Sedera and Sachithra Lokuge |
 72 | [Recommendations for enhancing consumer safe food management behaviour with smartphone technology ](pdfs/ACIS2019_PaperFIN_072.pdf) | Adeola Bamgboje-Ayodele, Leonie Ellis and Paul Turner |
 174 | [Achieving Agriculture Biotic Sustainability through Mobile-based Information System: Adapting the characteristics of Geographical Information Systems (GIS) ](pdfs/ACIS2019_PaperFIN_174.pdf) | Janagan Sivagnanasundaram, Athula Ginige and J.S. Goonethillake |
-177 | [Influencing Human Behaviour to Optimise Energy in Commercial Buildings ](pdfs/ACIS2019_PaperFIN_177.pdf) | Altaf Mazhar Soomro, Suresh Paryani, Junaid Rehman, Ricardo Aguilera Echeverria, Nimish Biloria and Mukesh Prasad | |
+177 | [Influencing Human Behaviour to Optimise Energy in Commercial Buildings ](pdfs/ACIS2019_PaperFIN_177.pdf) | Altaf Mazhar Soomro, Suresh Paryani, Junaid Rehman, Ricardo Aguilera Echeverria, Nimish Biloria and Mukesh Prasad |
 67 | [IT Service Management and Incident Management: Literature Review and a Case Study](pdfs/ACIS2019_PaperFIN_067.pdf) | Eghbal Ghazizadeh, Moonjee Jeong, Juan Pablo Angel and Yehan Que |
 10 | [Burst the Filter Bubble: Towards an Integrated Tool ](pdfs/ACIS2019_PaperFIN_010.pdf) | Alireza Amrollahi |
 | | **Track 3. Digital Disruption and Innovation for People, Society and Organisations** |
@@ -44,7 +44,7 @@ Please click on the title to view the PDF file.
 156 | [Barriers to Adoption of Financial Technology: A Study of the Australian Financial Sector ](pdfs/ACIS2019_PaperFIN_156.pdf) | Nicholas Brookes, Axel Korthaus and Hamid Pousti |
 186 | [How Government Regulation Affects Technology Continuance (Case Study of Online Transportation)](pdfs/ACIS2019_PaperFIN_186.pdf) | Rino Nugroho, Okki Ambarwati, Septyanto G. Prakoso and Didik Suharto |
 23 | [Is checkout- free store a flash in the pan? Factors influencing Hong Kong people‚Äôs adoption intention of checkout-free stores ](pdfs/ACIS2019_PaperFIN_023.pdf) | Cong Qi |
-153 | [Conceptualising Resource Integration Process Effectiveness to Assist Australian SMEs to Co-create Value with Cloud Technologies](pdfs/ACIS2019_PaperFIN_153.pdf) | Shan Jayasinghe, Lester Johnson, Chandana Hewege and Chamila Perera | |
+153 | [Conceptualising Resource Integration Process Effectiveness to Assist Australian SMEs to Co-create Value with Cloud Technologies](pdfs/ACIS2019_PaperFIN_153.pdf) | Shan Jayasinghe, Lester Johnson, Chandana Hewege and Chamila Perera |
 | | **Track 5. Industry 4.0 Design, Challenges and Impacts** |
 15 | [Decision Support Systems in the Context of CyberPhysical Systems: Influencing Factors and Challenges for the Adoption in Production Scheduling ](pdfs/ACIS2019_PaperFIN_015.pdf) | Pascal Freier and Matthias Schumann 
 109 | [On Logistics Management for Prosumer Business Information System Development and Implementation ](pdfs/ACIS2019_PaperFIN_109.pdf) | Shastri Nimmagadda, Sreenithya Sumesh, Aneesh Krishna and Torsten Reiners |
