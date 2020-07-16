@@ -1,4 +1,4 @@
-## ACIS 2019 Online Proceedings
+## ACIS 2019 Proceedings
 
 ### What is this?
 
