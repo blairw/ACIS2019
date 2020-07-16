@@ -2,13 +2,13 @@
 
 ### What is this?
 
-The Australiasian Conference on Information Systems (ACIS) was held in Perth (Australia) on 9-11 December, 2019. Unfortunately, the official conference website (acis2019.org) seems to be a bit unwell at the moment*. While we await its expedient recovery, we can take advantage of the fact that all ACIS 2019 papers are licensed under CC-BY-NC:
+The **Australiasian Conference on Information Systems 2019 (ACIS2019)** took place in Perth (Australia) on 9-11 December, 2019. Unfortunately, the official conference website (acis2019.org) seems to be a bit unwell at the moment*. While we await its expedient recovery, we can take advantage of the fact that all ACIS 2019 papers are licensed under CC-BY-NC:
 
 > "This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 Australia License, which permits non-commercial use, distribution, and reproduction in any medium, provided the original author and ACIS are credited."
 
-This website is not affiliated with ACIS, AAIS, or Curtin University. It is a voluntary project to make the ACIS 2019 proceedings available. For more details, please contact [Blair Wang](https://www.blair.wang).
+This website is not affiliated with ACIS, AAIS, or Curtin University. It is a voluntary project to make the ACIS 2019 proceedings available online (by which I mean, I copied the PDFs from the handy little ACIS 2019 USB that they handed out at the conference, uploaded them to GitHub, and indexed them below after some CSV-wrangling with [csvtomd](https://github.com/mplewis/csvtomd)). For further details, please contact [Blair Wang](https://www.blair.wang).
 
-*&nbsp;This page was last updated on 17 July 2020.
+*&nbsp;As at time of writing: 17 July 2020.
 
 ### Papers by Track
 
