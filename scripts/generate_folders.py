@@ -15,5 +15,5 @@ for index, row in df.iterrows():
     f.write('- **Paper ID:** ' + str(row["ID"]) + '\n')
     f.write('- **Track:** ' + str(row["Track"]) + '\n')
     this_pdf_filename = 'https://acis2019.io/pdfs/ACIS2019_PaperFIN_' + str(row["ID"]).zfill(3) + '.pdf'
-    f.write('- **View PDF file**: [' + this_pdf_filename + '](' + this_pdf_filename + ')\n')
-    f.write('&rarr back to [full list of papers presented at ACIS 2019](https://acis2019.io/)')
+    f.write('- **View PDF file**: [' + this_pdf_filename + '](' + this_pdf_filename + ')\n\n')
+    f.write('&rarr; back to [full list of papers presented at ACIS 2019](https://acis2019.io/)')
