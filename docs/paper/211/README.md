@@ -1,7 +1,8 @@
-# Panel 4 - (211) Towards ethical guidelines for Social Media Analytics
+## Panel 4 - (211) Towards ethical guidelines for Social Media Analytics
 
-- **ID:** 211
-- **Track:** Track 17. Panels, Workshops and Tutorials
-- **Title:** Panel 4 - (211) Towards ethical guidelines for Social Media Analytics
+Paper presented at the 30th Australasian Conference on Information Systems, 9-11 December, Perth (Australia)
 - **Authors:** Deborah Bunker, Caroline Chan, Dirk S. Hovorka, Sojen Prahdan, Nicolas Frick
-- **Download**: [https://acis2019.io/pdfs/ACIS2019_PaperFIN_211.pdf](https://acis2019.io/pdfs/ACIS2019_PaperFIN_211.pdf)
+- **Paper ID:** 211
+- **Track:** Track 17. Panels, Workshops and Tutorials
+- **View PDF file**: [https://acis2019.io/pdfs/ACIS2019_PaperFIN_211.pdf](https://acis2019.io/pdfs/ACIS2019_PaperFIN_211.pdf)
+&rarr back to [full list of papers presented at ACIS 2019](https://acis2019.io/)

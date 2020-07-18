@@ -1,7 +1,8 @@
-# Cloud Forensics Investigations Relationship: A Model And Instrument
+## Cloud Forensics Investigations Relationship: A Model And Instrument
 
-- **ID:** 158
-- **Track:** Track 15. Security and Privacy
-- **Title:** Cloud Forensics Investigations Relationship: A Model And Instrument
+Paper presented at the 30th Australasian Conference on Information Systems, 9-11 December, Perth (Australia)
 - **Authors:** Younis Al Husaini, Matt Warren, Lei Pan and Mansoor Al Gharibi
-- **Download**: [https://acis2019.io/pdfs/ACIS2019_PaperFIN_158.pdf](https://acis2019.io/pdfs/ACIS2019_PaperFIN_158.pdf)
+- **Paper ID:** 158
+- **Track:** Track 15. Security and Privacy
+- **View PDF file**: [https://acis2019.io/pdfs/ACIS2019_PaperFIN_158.pdf](https://acis2019.io/pdfs/ACIS2019_PaperFIN_158.pdf)
+&rarr back to [full list of papers presented at ACIS 2019](https://acis2019.io/)
