@@ -4,6 +4,6 @@ Paper presented at the 30th Australasian Conference on Information Systems, 9-11
 - **Authors:** Annette Mills
 - **Paper ID:** 207
 - **Track:** Track 17. Panels, Workshops and Tutorials
-- **View PDF file**: [https://acis2019.io/pdfs/ACIS2019_PaperFIN_207.pdf](https://acis2019.io/pdfs/ACIS2019_PaperFIN_207.pdf)
+- **View PDF file**: [https://acis2019.io/pdfs/ACIS2019_PaperFIN_207-Workshop.pdf](https://acis2019.io/pdfs/ACIS2019_PaperFIN_207-Workshop.pdf)
 
 &larr; back to [full list of papers presented at ACIS 2019](https://acis2019.io/)

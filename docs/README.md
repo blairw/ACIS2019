@@ -1,12 +1,8 @@
 ## ACIS 2019 Proceedings
 
-### What is this?
+### About ACIS 2019
 
-The 30th **Australiasian Conference on Information Systems (ACIS)** took place in Fremantle (Perth, Western Australia, Australia) on 9-11 December, 2019. Unfortunately, as at time of writing (17 July 2020), the official conference website (acis2019.org) seems to be a bit unwell. While we await its expedient recovery, we can take advantage of the fact that all ACIS 2019 papers are _"distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 Australia License, which permits non-commercial use, distribution, and reproduction in any medium, provided the original author and ACIS are credited"_.
-
-All papers presented at ACIS 2019 are available for download below (scroll to **"Papers by Track"**). All credits for the papers go to the original authors (listed below) and ACIS.
-
-This website is not affiliated with ACIS, AAIS, or Curtin University. It is a voluntary project to make the ACIS 2019 proceedings available online (by which I mean, I copied the PDFs from the handy little ACIS 2019 USB that they gave out at the conference and indexed them below after some CSV-wrangling with [csvtomd](https://github.com/mplewis/csvtomd)). For further details, please contact [Blair Wang](https://www.blair.wang).
+The 30th **Australiasian Conference on Information Systems (ACIS)** took place in Fremantle (Perth, Western Australia, Australia) on 9-11 December, 2019. 
 
 ### Papers by Track
 
@@ -132,11 +128,20 @@ Click on the paper's title to view its record (including link to PDF file).
 61 | [How blockchain impacts cloud-based system performance: a case study for a groupware communication application ](paper/61) | Peter Eklund, Jason Spasovski and Roman Beck |
 155 | [Challenges and opportunities for Blockchain Technology adoption: A systematic review ](paper/155) | Shipra Chhina, Mehmood Chadhar, Savanid Vatanasakdakul and Madhu Chetty |
 | | **Track 17. Panels, Workshops and Tutorials** |
-202 | [Tutorial: IS guided Logistics and Supply Chain Management Systems and Knowledge Management ](paper/202-Tutorial) | Shastri Nimmagadda, Torsten Reiners, Lincoln C. Wood |
-203 | [Tutorial: Design Science Research: A Hands-on Tutorial ](paper/203-Tutorial) | John Venable |
-204 | [Tutorial: Introduction to Blockchain technology ](paper/204-Tutorial)| Vidyasagar Potdar, Sai Charan Mamidi |
-205 | [Panel 2 - (205) Digital Transformation: Environmental friend or foe? ](paper/205-Panel) | Sachithra Lokuge, Darshana Sedera, Frada Burstein, Vanessa Cooper |
-206 | [Panel 3 - (206) Information Systems (IS) Education in Australia - where from here? ](paper/206-Panel) | Caroline Chan, Frada Burstein, John Venable, Joan Richardson |
-207 | [Workshop: Paper Development Workshop ](paper/207-Workshop) | Annette Mills |
-209 | [Panel 1 - (209) Ethics in IT: Importance of Digital Inclusion ](paper/209-Panel) | Vivienne Conway, Amanda Mace, Justin Brown, David Lucido, Muhammad Saleem |
-211 | [Panel 4 - (211) Towards ethical guidelines for Social Media Analytics ](paper/211-Panel) | Deborah Bunker, Caroline Chan, Dirk S. Hovorka, Sojen Prahdan, Nicolas Frick |
+202 | [Tutorial: IS guided Logistics and Supply Chain Management Systems and Knowledge Management ](paper/202) | Shastri Nimmagadda, Torsten Reiners, Lincoln C. Wood |
+203 | [Tutorial: Design Science Research: A Hands-on Tutorial ](paper/203) | John Venable |
+204 | [Tutorial: Introduction to Blockchain technology ](paper/204)| Vidyasagar Potdar, Sai Charan Mamidi |
+205 | [Panel 2 - (205) Digital Transformation: Environmental friend or foe? ](paper/205) | Sachithra Lokuge, Darshana Sedera, Frada Burstein, Vanessa Cooper |
+206 | [Panel 3 - (206) Information Systems (IS) Education in Australia - where from here? ](paper/206) | Caroline Chan, Frada Burstein, John Venable, Joan Richardson |
+207 | [Workshop: Paper Development Workshop ](paper/207) | Annette Mills |
+209 | [Panel 1 - (209) Ethics in IT: Importance of Digital Inclusion ](paper/209) | Vivienne Conway, Amanda Mace, Justin Brown, David Lucido, Muhammad Saleem |
+211 | [Panel 4 - (211) Towards ethical guidelines for Social Media Analytics ](paper/211) | Deborah Bunker, Caroline Chan, Dirk S. Hovorka, Sojen Prahdan, Nicolas Frick |
+
+
+### Is this the official ACIS 2019 conference website?
+
+Unfortunately, as at time of writing (17 July 2020), the official conference website (acis2019.org) seems to be a bit unwell. While we await its expedient recovery, we can take advantage of the fact that all ACIS 2019 papers are _"distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 Australia License, which permits non-commercial use, distribution, and reproduction in any medium, provided the original author and ACIS are credited"_.
+
+All papers presented at ACIS 2019 are available for download below (scroll to **"Papers by Track"**). All credits for the papers go to the original authors (listed below) and ACIS.
+
+This website is not affiliated with ACIS, AAIS, or Curtin University. It is a voluntary project to make the ACIS 2019 proceedings available online (by which I mean, I copied the PDFs from the handy little ACIS 2019 USB that they gave out at the conference and indexed them below after some CSV-wrangling with [csvtomd](https://github.com/mplewis/csvtomd)). For further details, please contact [Blair Wang](https://www.blair.wang).
